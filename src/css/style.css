@@ -38,11 +38,13 @@ body{
 
 .cartao .minhas-informacoes .nome{
   font-size: 26px;
+  font-weight:100;
 }
 
 .cartao .minhas-informacoes .cargo{
   font-size: 20px;
-  color: #b8bbc5;
+  font-weight: 80;
+  color: #b8bbc557;
 }
 
 .cartao .conteudo{
@@ -88,13 +90,15 @@ body{
   display:block;
 }
 .informacoes-abas .sub-titulo{
-    font-size: 22px;
+    font-size: 24px;
+    font-weight: 80;
     margin-bottom: 25px;
     text-align: center;
 }
 
 .informacoes-abas .descricao{
   font-size: 20px;
+  font-weight: 70;
   max-height: 180px;
   overflow: auto;
   padding: 15px;
@@ -130,7 +134,7 @@ transition: opacity 0.3s ease-in-out;
   
   }
 
-.redes-sociais .curriculo{
+.redes-sociais .instagram{
   background-color: #06C185;
 }
 
