@@ -146,6 +146,10 @@ transition: opacity 0.3s ease-in-out;
  background-color: #545454;
 }
 
+.redes-sociais .portfolio {
+  background-color: #e228d8;
+}
+
 .informacoes-abas{
  
     scrollbar-width: thin;
